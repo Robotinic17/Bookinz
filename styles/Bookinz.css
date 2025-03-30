@@ -10,7 +10,7 @@ body{
 
 header{
     display: grid;
-    background-color: transparent;
+    background-color: linear-gradient( to bottom, #add8e6, #ffffff);
     grid-template-columns: 1fr 1fr;
     width: 100%;
     max-width: 100vw;
@@ -20,6 +20,10 @@ header{
     position: fixed;
     z-index: 10;
     top: 0;
+}
+
+.topmenu{
+    display: none;
 }
 
 
