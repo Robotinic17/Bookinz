@@ -1837,7 +1837,7 @@ footer{
         width: 20px;
         height: 20px;
         background-color: rgba(85, 255, 85, 0.3);
-        font-size: 12px;
+        font-size: 9px;
     }
 
     .chat1 {
@@ -1887,7 +1887,7 @@ footer{
         width: 20px;
         height: 20px;
         background-color: rgba(85, 255, 85, 0.3);
-        font-size: 12px;
+        font-size: 9px;
     }
 
     body > div.FreightFlow > div.FF1 > div:nth-child(4) > a {
